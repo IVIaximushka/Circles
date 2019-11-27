@@ -4,6 +4,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
 from PyQt5.QtGui import QPainter, QColor
 
 
+# forms
 class Example(QWidget):
     def __init__(self):
         super().__init__()
